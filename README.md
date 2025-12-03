@@ -2,7 +2,7 @@
 
 > A futuristic cyberpunk theme with neon accents and high contrast colors for VS Code. Perfect for night coding sessions with electric cyan, magenta, and yellow highlights.
 
-![Neon Cyberpunk Theme Preview](https://github.com/gamizahadiagliu4/neon-theme/raw/main/screenshot.png)
+![Neon Cyberpunk Theme Preview](https://github.com/gamizahadiagliu4/neon-theme/raw/main/neon.png)
 
 ## ✨ Features
 
@@ -425,7 +425,7 @@ You can customize the theme by adding these settings to your `settings.json`:
 
 ## 🐛 Issues & Feedback
 
-Found a bug or have a suggestion? Please report it on our [GitHub Issues](https://github.com/cyberpunk-themes/neon-cyberpunk-vscode/issues) page.
+Found a bug or have a suggestion? Please report it on our [GitHub Issues](https://github.com/gamizahadiagliu4/neon-theme/issues) page.
 
 ## 🤝 Contributing
 
