@@ -1,0 +1,66 @@
+{
+    "name": "theme-neon-cyberpunk",
+    "version": "1.0.0",
+    "displayName": "Theme Neon Cyberpunk",
+    "description": "A futuristic cyberpunk theme with neon accents and high contrast colors for VS Code. Perfect for night coding sessions with electric cyan, magenta, and yellow highlights.",
+    "publisher": "theme-cyberpunk",
+    "license": "MIT",
+    "main": "app.js",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "scripts": {
+        "postinstall": "node app.js",
+        "welcome": "node app.js",
+        "test": "node app.js"
+    },
+    "activationEvents": [
+        "onStartupFinished"
+    ],
+    "categories": ["Themes"],
+    "keywords": [
+        "neon-cyberpunk",
+        "cyberpunk",
+        "neon",
+        "dark",
+        "theme",
+        "color-theme",
+        "futuristic",
+        "electric",
+        "night",
+        "hacker"
+    ],
+    "galleryBanner": {
+        "color": "#0a0a0f",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Neon Cyberpunk",
+                "uiTheme": "vs-dark",
+                "path": "./theme/neon-cyberpunk.json"
+            },
+            {
+                "label": "Neon Cyberpunk Soft",
+                "uiTheme": "vs-dark",
+                "path": "./theme/neon-cyberpunk-soft.json"
+            }
+        ],
+        "commands": [
+            {
+                "command": "neon-cyberpunk.showWelcome",
+                "title": "Show Welcome Message",
+                "category": "Neon Cyberpunk"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cyberpunk-themes/neon-cyberpunk-vscode"
+    },
+    "bugs": {
+        "url": "https://github.com/cyberpunk-themes/neon-cyberpunk-vscode/issues"
+    },
+    "homepage": "https://github.com/cyberpunk-themes/neon-cyberpunk-vscode#readme"
+}
