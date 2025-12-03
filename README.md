@@ -2,7 +2,7 @@
 
 > A futuristic cyberpunk theme with neon accents and high contrast colors for VS Code. Perfect for night coding sessions with electric cyan, magenta, and yellow highlights.
 
-![Neon Cyberpunk Theme Preview](screenshot.png)
+![Neon Cyberpunk Theme Preview](https://github.com/gamizahadiagliu4/neon-theme/raw/main/screenshot.png)
 
 ## ✨ Features
 
@@ -88,7 +88,7 @@ For the best experience with this theme, consider these VS Code settings:
 
 ## 📸 Code Examples
 
-![JavaScript/TypeScript](screenshot.png)
+![JavaScript/TypeScript](https://github.com/gamizahadiagliu4/neon-theme/raw/main/screenshot.png)
 
 ### JavaScript/TypeScript
 ```javascript
@@ -156,7 +156,7 @@ const NeonButton = ({ children, onClick, variant = 'primary' }) => {
 };
 ```
 
-![Python](screenshot.png)
+![Python](https://github.com/gamizahadiagliu4/neon-theme/raw/main/Python.png)
 
 ### Python
 ```python
@@ -240,7 +240,7 @@ if __name__ == "__main__":
 ```
 
 
-![HTML/CSS](HTML_CSS.png)
+![HTML/CSS](https://github.com/gamizahadiagliu4/neon-theme/raw/main/HTML_CSS.png)
 
 
 ### HTML/CSS
@@ -344,7 +344,7 @@ if __name__ == "__main__":
 
 
 
-![terminal](terminal-example.png)
+![terminal](https://github.com/gamizahadiagliu4/neon-theme/raw/main/terminal-example.png)
 
 ### Terminal
 ```bash
